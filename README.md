@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yoinka
 - 👀 I’m interested in Programming and Making Mods (for games obv, but i haven't made any yet)
-- 🌱 I’m currently learning HTML CSS PHP SQL
+- 🌱 I’m currently learning HTML CSS PHP SQL JS
 - 📫 How to reach me 
 - discord: Weeaboo#8776
 - email: (WIP)
